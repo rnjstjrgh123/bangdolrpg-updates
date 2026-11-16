@@ -1,23 +1,23 @@
 {
-  "releaseVersion": "1.0.2",
-  "minecraftVersion": "1.21.11",
-  "fabricLoader": "0.18.2",
-  "serverAddress": "scooter-tubeless.tun.ply.gg:65185",
-  "files": [
-    {
-      "path": "mods/rpg-network-ui.jar",
-      "url": "https://raw.githubusercontent.com/rnjstjrgh123/bangdolrpg-updates/main/rpg-network-ui-fixed.jar",
-      "sha256": "ae68434d4825fc87778de1f1367f737830988f3d67ff3301c4f1eed8c95e66da"
-    },
-    {
-      "path": "mods/fabric-api.jar",
-      "url": "https://raw.githubusercontent.com/rnjstjrgh123/bangdolrpg-updates/main/fabric-api.jar",
-      "sha256": "bdff7fd7e220085cfad2ff9b1f40dde6534ae0b96cf378f97a374bc54cb9ed0f"
-    },
-    {
-      "path": "versions/rpg-quickplay-fabric-0.18.2-1.21.11/rpg-quickplay-fabric-0.18.2-1.21.11.json",
-      "url": "https://raw.githubusercontent.com/rnjstjrgh123/bangdolrpg-updates/main/rpg-quickplay-fabric-0.18.2-1.21.11.json",
-      "sha256": "42cb9888967293b4d80c9d2a62800f10a0d6a3ab6fac37285df2eeeb717049e9"
-    }
-  ]
+    "releaseVersion":  "1.0.4",
+    "minecraftVersion":  "1.21.11",
+    "fabricLoader":  "0.18.2",
+    "serverAddress":  "scooter-tubeless.tun.ply.gg:65185",
+    "files":  [
+                  {
+                      "path":  "mods/rpg-network-ui.jar",
+                      "url":  "https://raw.githubusercontent.com/rnjstjrgh123/bangdolrpg-updates/main/rpg-network-ui-fixed.jar",
+                      "sha256":  "e278e5ad511e608f131dea0507b01088405513409f58366a9c727087fd85b3be"
+                  },
+                  {
+                      "path":  "mods/fabric-api.jar",
+                      "url":  "https://raw.githubusercontent.com/rnjstjrgh123/bangdolrpg-updates/main/fabric-api.jar",
+                      "sha256":  "bdff7fd7e220085cfad2ff9b1f40dde6534ae0b96cf378f97a374bc54cb9ed0f"
+                  },
+                  {
+                      "path":  "versions/rpg-quickplay-fabric-0.18.2-1.21.11/rpg-quickplay-fabric-0.18.2-1.21.11.json",
+                      "url":  "https://raw.githubusercontent.com/rnjstjrgh123/bangdolrpg-updates/main/rpg-quickplay-fabric-0.18.2-1.21.11.json",
+                      "sha256":  "42cb9888967293b4d80c9d2a62800f10a0d6a3ab6fac37285df2eeeb717049e9"
+                  }
+              ]
 }
