@@ -1,5 +1,5 @@
 {
-  "releaseVersion": "1.19.0",
+  "releaseVersion": "1.20.0",
   "minecraftVersion": "1.21.11",
   "fabricLoader": "0.18.2",
   "serverAddress": "scooter-tubeless.tun.ply.gg:65185",
@@ -7,7 +7,7 @@
     {
       "path": "mods/rpg-network-ui.jar",
       "url": "https://raw.githubusercontent.com/rnjstjrgh123/bangdolrpg-updates/main/rpg-network-ui-fixed.jar",
-      "sha256": "f94bcfb2d0c1b0bf28ad44d4d2250ae83e2c8620363a5e220fe5b75a9df9d36a"
+      "sha256": "4c33535dad2c3a2a97b9ca6c6d229960c14b8c460c22f298f60333cb6145fdc9"
     },
     {
       "path": "mods/fabric-api.jar",
